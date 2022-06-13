@@ -1,0 +1,26 @@
+Skill 1: Testing Theory, SDLC, STLC
+Skill 2: Clien-server
+Skill 3: HTTP-methods
+Skill 4: HTTP status-codes
+Skill 5: HTTP resp, req stracture
+Skill 6: JSON, XML. Structure
+Skill 7: API Postman (JS, autotest API)
+Skill 8: Logs from servers
+Skill 9: Charles and Fiddler
+Skill 10: Dev Tools(Google Chrome, FireFox)
+Skill 11: VPN
+Skill 12: Mobile testing
+Skill 13: IOS, android guidelines
+Skill 14: XCode
+Skill 15: Android Studio
+Skill 16: ADB
+Skill 17: iOS Android proxy, vpn
+Skill 18: Mobile trafic sniffing. Charles and Fiddler iOS, Android
+Skill 19: terminal Linux
+Skill 20: bash scripting
+Skill 21: Remote servers access
+Skill 22: SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)
+Skill 23: DB Postgres
+Skill 24: Redis
+Skill 25: Load testing Jmeter
+Skill 26: Scrum
