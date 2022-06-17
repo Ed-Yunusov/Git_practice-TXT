@@ -41,7 +41,7 @@
     + `touch preferences.txt`
 
 10. В файл preferences.txt добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить). Всё написать в формате TXT
-    + `vim new.txt` 
+    + `vim preferences.txt` 
     + `insert`
         + Favorite movie: Lord of the Rings
         + Favorite serial: Friends
@@ -53,7 +53,7 @@
     + `:wq`
 
 11. Создать файл skills.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT
-    + `vim new.txt` 
+    + `vim skills.txt` 
     + `insert`
     + skills:
         + Software testing theory
