@@ -1,8 +1,8 @@
 #### Git_practice-TXT
 1. Создать внешний репозиторий c названием Git_practice-TXT
-    + открыть `https://github.com`. Залогиниться. Нажать кнопку `New`. 
-    + в поле Repository name ввести Git_practice-TXT, выбрать Public и Add a README file. 
-    + Нажать `Create repository`.
+    + открыть `https://github.com`. Залогиниться. Нажать кнопку `New` 
+    + в поле Repository name ввести Git_practice-TXT, выбрать Public и Add a README file 
+    + Нажать `Create repository`
 
 2. Клонировать репозиторий Git_practice-TXT на локальный компьютер
     + Нажать `Code`, выбрать HTTPS, скопировать ссылку на репозиторий 
@@ -90,14 +90,14 @@
     + `git add . ; git commit -m "adding two files to the rep" ; git push`
 
 13. На веб интерфейсе создать файл bug_report.txt
-    + Войти в репозиторий Git_practice-TXT. Нажать кнопку `Add file`.
-    + Выбрать `Create new file`. В поле Name your file ввести bug_report.txt.
+    + Войти в репозиторий Git_practice-TXT. Нажать кнопку `Add file`
+    + Выбрать `Create new file`. В поле Name your file ввести bug_report.txt
 
 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе
-    + Нажать кнопку `Commit new file`.
+    + Нажать кнопку `Commit new file`
 
 15. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT
-    + Открыть файл bug_report.txt, нажать на кнопку `Edit this file`.
+    + Открыть файл bug_report.txt, нажать на кнопку `Edit this file`
     	+ ID: 1
     	+ Title: В разделе 'Помощь' не работает ссылка
     	+ Project: Сайт интернет-магазина HitechPlace
@@ -115,7 +115,7 @@
     	+ Author: Эдуард Юнусов
 
 16. Сделать Commit changes (сохранить) изменения на веб интерфейсе
-    + Нажать кнопку `Commit changes`.
+    + Нажать кнопку `Commit changes`
 
 17. Синхронизировать внешний и локальный репозиторий Git_practice-TXT
     + `git pull`
